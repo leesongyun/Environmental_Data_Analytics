@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Reproducibility, Workflow, Version Control"
-author: "Student Name"
+author: "Songyun Lee"
 output: pdf_document
 geometry: margin=2.54cm
 ---
@@ -30,22 +30,22 @@ The completed exercise is due on Thursday, 17 January, 2018 before class begins.
 ### Question
 Why are reproducible practices becoming the norm in data analytics?
 
-> Answer: 
+> Answer: Reproducibility ensures quality assurance and quality control in laboratory data generation. 
 
 ### Question
 What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: I barely had any training in data analytics, R, and Git. I just took one workshop in Bostock library but it was hard to understand as they didn't go over fundamental concepts. 
 
 ### Question
 Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: I am taking this course to be confident on these components. 
 
 ### Question
 Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: I am fearful about troubleshooting issues that may take hours to be fixed. 
 
 
 ## 2) GitHub
